@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rimjhim</h1>
-  <a href ="www.git-achievements.com/services/hooks/web
-"/>
+ 
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <img align="center" width="600"
