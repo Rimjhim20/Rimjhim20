@@ -6,7 +6,7 @@
 
 
 <img align="center" width="600"
-src="https://cdn.dribbble.com/users/2412830/screenshots/10839740/media/4c0c8135a33a641e5aaac1e9485628c2.jpg?compress=1&resize=1000x750"/>
+src="https://cdn.dribbble.com/users/2412830/screenshots/10839740/media/4c0c8135a33a641e5aaac1e9485628c2.jpg?compress=1&resize=200x250"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimjhim20&label=Profile%20views&color=0e75b6&style=flat" alt="rimjhim20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimjhim20" alt="rimjhim20" /></a> </p>
