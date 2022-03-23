@@ -2,7 +2,7 @@
  
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/0fea731ac687441083bd70a4ad1002b4.png?r=fek" width="400" alt="Rimjhim Dev Card"/></a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimjhim20&label=Profile%20views&color=0e75b6&style=flat" alt="rimjhim20" /> </p>
