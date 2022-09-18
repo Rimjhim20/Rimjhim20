@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rimjhim</h1>
  
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate full stack developer from India.</h3>
 
 
 <img src="https://media.istockphoto.com/vectors/girl-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-vector-id1250100531?k=20&m=1250100531&s=170667a&w=0&h=7AHk5msuqqNvInktsvWLqk2j1BfFBEUR-TthrXWJ19A="/>
