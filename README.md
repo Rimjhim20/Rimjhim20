@@ -2,6 +2,7 @@
  
 <h3 align="center">A passionate full stack developer from India.</h3>
 
+[![@rimjhim's Holopin board](https://holopin.me/rimjhim)](https://holopin.io/@rimjhim)
 
 <img src="https://media.istockphoto.com/vectors/girl-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-vector-id1250100531?k=20&m=1250100531&s=170667a&w=0&h=7AHk5msuqqNvInktsvWLqk2j1BfFBEUR-TthrXWJ19A="/>
 
