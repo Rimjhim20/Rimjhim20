@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rimjhim</h1>
  
 <h3 align="center">A passionate full stack developer from India.</h3>
+<img src="https://media.istockphoto.com/vectors/girl-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-vector-id1250100531?k=20&m=1250100531&s=170667a&w=0&h=7AHk5msuqqNvInktsvWLqk2j1BfFBEUR-TthrXWJ19A="/>
 
 <h1>Badges</h1>
 
 [![@rimjhim's Holopin board](https://holopin.me/rimjhim)](https://holopin.io/@rimjhim)
 
-<img src="https://media.istockphoto.com/vectors/girl-with-dark-hair-works-on-a-laptop-work-from-home-freelance-stay-vector-id1250100531?k=20&m=1250100531&s=170667a&w=0&h=7AHk5msuqqNvInktsvWLqk2j1BfFBEUR-TthrXWJ19A="/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimjhim20&label=Profile%20views&color=0e75b6&style=flat" alt="rimjhim20" /> </p>
 
